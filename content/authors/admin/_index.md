@@ -17,7 +17,7 @@ email: "ofelix@ucsb.edu"
 interests:
 - Energy Efficiency
 - Data Science
-- Entrepreneurship
+- Eco-Entrepreneurship
 name: Oswaldo Felix
 organizations:
 - name: Bren School of Environmental Science and Public Policy
