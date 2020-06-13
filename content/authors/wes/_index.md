@@ -1,7 +1,7 @@
 ---
 authors:
 - wes
-bio: I aim to mitigate climate impacts while cleaning the world's energy portfolio
+bio: 
 education:
   courses:
   - course: MESM Energy & Climate, Data Science Focus
@@ -18,11 +18,11 @@ interests:
 - Energy Efficiency
 - Data Science
 - Entrepreneurship
-name: Oswaldo Felix
+name: Wes Newbury
 organizations:
 - name: Bren School of Environmental Science and Public Policy
   url: ""
-role: Energy and Climate
+role: Project Manager
 social:
 - icon: envelope
   icon_pack: fas

@@ -1,7 +1,7 @@
 ---
 authors:
 - qusai
-bio: I aim to mitigate climate impacts while cleaning the world's energy portfolio
+bio: 
 education:
   courses:
   - course: MESM Energy & Climate, Data Science Focus
@@ -15,10 +15,10 @@ education:
     year: 2015
 email: "ofelix@ucsb.edu"
 interests:
-- Energy Efficiency
-- Data Science
-- Entrepreneurship
-name: Oswaldo Felix
+- Sustainability
+- Renewable Energy
+- Environmental Justice
+name: Qusai Bhaijeewala
 organizations:
 - name: Bren School of Environmental Science and Public Policy
   url: ""
