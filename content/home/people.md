@@ -13,10 +13,7 @@ subtitle = ""
 [content]
   # Choose which groups/teams of users to display.
   #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
-  user_groups = ["Project Manager",
-                 "Financial Manager",
-                 "Data Manager",
-                 "Outreach Manager",
+  user_groups = ["Team Members",
                  "Advisors",
                  "Investors"]
 
