@@ -29,7 +29,7 @@ subtitle = ""
   # gradient_end = "SkyBlue"
   
   # Background image.
-  image = "headers/transform.png"  # Name of image in `static/img/`.
+  image = "headers/uni.jpg"  # Name of image in `static/img/`.
   image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
   image_size = "cover"  #  Options are `cover` (default), `contain`, or `actual` size.
   image_position = "center"  # Options include `left`, `center` (default), or `right`.
@@ -50,16 +50,12 @@ subtitle = ""
  css_class = ""
 +++
 
-Welcome to the **personal demo** of Academic. Other demos available include:
+# **Unicado** seeks to convert a starved marine *pest* into a refined *delicacy* by feeding purple urchins agricultural by-product.
 
-- [**Project Demo** (Academic's actual site)](https://sourcethemes.com/academic/)
+**Environmental Problem**
 
-**Over 100,000 [Amazing Websites](https://sourcethemes.com/academic/#expo) have Already Been Built with Academic**
+California's purple sea urchin (Strongylocentrotus purpuratus) has exploded in population size by 10,000% overtaking native kelp habitat. The purple sea urchin can survive with minimal food and remove the kelp habitat of their predators, so they ultimately form urchin barrens that comprise of thousands of empty individuals.  
 
-**[Join](https://sourcethemes.com/academic/docs/install/) the Most Empowered Hugo Community**
+**Eco-Entrepreneurship Solution**
 
-{{% alert note %}}
-This homepage section is an example of adding [elements](https://sourcethemes.com/academic/docs/writing-markdown-latex/) to the [*Blank* widget](https://sourcethemes.com/academic/docs/widgets/).
-
-Backgrounds can be applied to any section. Here, the *background* option is set give an *image parallax* effect.
-{{% /alert %}}
+These urchin barrens need to be culled in order to allow for the restoration of native kelp habitat. There is a unique environmental opportunity present in incentivizing the consumption of a purple urchins. Feeding these urchins avocado by-product will make use of an agricultural food waste stream that will enhance the quality of pruple sea urchin uni,  
