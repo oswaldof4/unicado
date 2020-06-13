@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Max Diamond | Academic</title>
+    <link>/author/max-diamond/</link>
+      <atom:link href="/author/max-diamond/index.xml" rel="self" type="application/rss+xml" />
+    <description>Max Diamond</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>/author/max-diamond/avatar_hu938cd5f6ed1d710f91a89ec34811f4e5_173989_270x270_fill_q90_lanczos_center.jpg</url>
+      <title>Max Diamond</title>
+      <link>/author/max-diamond/</link>
+    </image>
+    
+  </channel>
+</rss>
